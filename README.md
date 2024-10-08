@@ -1,7 +1,7 @@
 # PMAT-Course_Final
 Hello Everyone,
 
-Welcome to my github repo for my course final on Malware Analysis and Triage Report. For this course final I have taken a malware sample analysed it in various stages and prepared and attached a report to this repository for viewing.
+Welcome to my GitHub repository for my final project on Malware Analysis and Triage. For this project, I have selected a malware sample and conducted a detailed analysis across various stages, including static and dynamic analysis. I have documented the findings, techniques used, and conclusions in a comprehensive report, which is attached to this repository for review. The report provides insights into the malware's behavior, capabilities, and potential mitigations.
 
 Thanks & Regards,
 
