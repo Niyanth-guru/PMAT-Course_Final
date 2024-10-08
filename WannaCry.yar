@@ -8,7 +8,7 @@ rule WannaCry_catcher {
     strings:
         $PE_magic_header_byte = "MZ" 
         $External_URL = "http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com" ascii
-        $hidden_directory = "C:\ProgramData\%s"
+        $hidden_directory = "C:\\ProgramData\\%s"
         $spawned_executables1 = "tasksche.exe"
         $spawned_executbales2 = "taskse.exe"
         $spawned_executables3 = "taskdl.exe"
