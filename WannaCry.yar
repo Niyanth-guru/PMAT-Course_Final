@@ -1,8 +1,8 @@
 rule WannaCry_catcher {
     meta:
         author = "Niyanth Guruprasad"
-        Created on = "08-10-2024"
-        Last updated on = "08-10-2024"
+        Created_On = "08-10-2024"
+        Last_Updated = "08-10-2024"
         Description = "Detection Rule for WannaCry Ransomware,PMAT"
     
     strings:
